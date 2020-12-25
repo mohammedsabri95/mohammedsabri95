@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  	<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
- <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="40" height="40" /> </a>
+ <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40" /> </a>
- 	<a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="" width="40" height="40" /> </a>
+   <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40" /> </a>
  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="" width="40" height="40" /> </a>
 	<a href="https://www.sas.com/fr_ma/home.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" alt="sas" width="40" height="40" /> </a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
