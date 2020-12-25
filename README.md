@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 	
 #### Hi there 👋🏻
 <div align='center'>
-  <img height=500 src='https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif' />
+  <img height=200 src='https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif' />
 </div>
 
-## On this page I keep all my Data Science Projects
+I'm a Ph.D. student in computer science, passionate about Machine Learning and statistic, with a strong passion for working in a team and for succeeding in a project.
+My principal research interest lies in the field of Supervised Learning. 
 
 
 <h3 align="left">Connect with me:</h3>
