@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/kenjee"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 -->
-# Hi Everyone! Welcome to Mohammed Sabri GitHub Profile
+# Hi Everyone! Welcome to My GitHub Profile
 <div align='center'>
-  <img height=200 src='https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif' />
+  <img height=500 src='https://media.giphy.com/media/3oz8xSjBmD1ZyELqW4/giphy.gif' />
 </div>
+
 ## On this page I keep all my Data Science Projects
 
 
