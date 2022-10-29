@@ -43,7 +43,7 @@ My principal research interest lies in the field of Supervised Learning.
 	<a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/> </a>
  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40" /> </a>
    <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40" /> </a>
- <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="" width="40" height="40" /> </a>
+ <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Mathworks.svg" alt="" width="40" height="40" /> </a>
 	<a href="https://www.sas.com/fr_ma/home.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg" alt="sas" width="60" height="40" /> </a>
 	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" alt="c" width="40" height="40" /> </a>
 	<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40" /> </a>
